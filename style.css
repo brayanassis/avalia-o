@@ -1,0 +1,61 @@
+body {
+    background-color: #f0f8ff; /* Azul claro */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Estiliza o título principal */
+h1 {
+    color: #4a90e2; /* Azul forte */
+    font-family: 'Georgia', serif; /* Fonte serifada */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estiliza a imagem de perfil */
+img {
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem */
+    border-radius: 50%; /* Bordas arredondadas */
+    border: 3px solid #4a90e2; /* Borda azul ao redor da imagem */
+}
+
+/* Estiliza a seção "Sobre Mim" */
+h2 {
+    color: #333; /* Cor escura para o cabeçalho */
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 0 0 20px 0; /* Espaçamento do parágrafo */
+    padding: 10px;
+    background-color: #ffffff; /* Fundo branco para o parágrafo */
+    border: 1px solid #ddd; /* Borda leve */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+
+/* Estiliza a lista de hobbies/interesses */
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background: #eaf2f8; /* Azul muito claro */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Estiliza o link */
+a {
+    color: #3498db; /* Azul do link */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1d72b8; /* Azul mais escuro ao passar o mouse */
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+}
