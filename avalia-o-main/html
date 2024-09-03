@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> perfil de Jonas </title>
+    <title> perfil de Jonas da Cruz </title>
     <style>
    
         img {
@@ -34,7 +34,7 @@
     <h1>Jonas</h1>
     <img src="Jorge.jpg">
     
-    <h2>Sobre o Aladin</h2>
+    <h2>Sobre o Jonas da Cruz</h2>
     <p>Olá! Eu sou Jonas, um estudante de Programacao e Robotica com 36 anos fazendo apenas mais um trabalho</p>
     
     <h2>Meus Hobbies</h2>
